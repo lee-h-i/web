@@ -315,7 +315,7 @@ header .bg {
   top: 30px;
   margin: 0px;
 
-  background: url(/img/bg.png)
+  background: url(../img/bg.png)
 }
 
 header .inner {
